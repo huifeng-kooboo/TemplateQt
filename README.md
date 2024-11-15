@@ -1,0 +1,2 @@
+# TemplateQt
+Basic Qt Template
